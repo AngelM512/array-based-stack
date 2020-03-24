@@ -1,6 +1,6 @@
 /**********************************************/
-/* Angel A Moreta                             */
-/* Lab 2                                      */
+/*Author:  Angel A Moreta                     */
+/*                                            */
 /* This is an Array-Based implementation of a */
 /* Stack where insertion and deletion happen  */
 /* at the top of the stack.                   */
